@@ -32,8 +32,8 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** and building
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn URL*
-* 🐙 GitHub: *You are already here!*
+* 💼 LinkedIn: https://www.linkedin.com/in/aakash-pawar-5039212b1/
+* 🐙 GitHub: 
 
 ---
 
